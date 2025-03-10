@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello guys!!
 hello quang!!
+=======
+Hello guy!! 
+>>>>>>> Quang
